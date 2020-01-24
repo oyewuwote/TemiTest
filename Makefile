@@ -1,6 +1,7 @@
 # Makefile for github3.py
 #
 # Copyright 2015, Ian Cordasco
+import github3 as github
 
 COVERAGE_INCLUDE := github3/*.py
 TEST_RUNNER := tox
