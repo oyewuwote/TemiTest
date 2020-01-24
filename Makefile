@@ -24,4 +24,3 @@ htmlcov: .coverage
 
 docs: docs/*.rst
 	tox -e docs
-password = "test"
